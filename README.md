@@ -36,7 +36,3 @@ finite element analysis, additive manufacturing, TPU.
 
 This thesis is the foundation for an ongoing project applying auxetic infills to **morphing aircraft
 wings** — see [`morphing-wing-auxetics`](../../../morphing-wing-auxetics).
-
-## Add before you publish this repo
-- [ ] Drop 3–4 key figures (DAH cell, FEA stress contour, drop-impact plot) into `figures/` and embed them above.
-- [ ] Consider a preprint (engrXiv) once the thesis is condensed into a paper — see the guide you were given.
